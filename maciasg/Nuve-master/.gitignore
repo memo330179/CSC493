@@ -1,0 +1,6 @@
+py3env/
+db.sqlite
+*.pyc
+*__pycache__/
+venc/
+app/uploads
